@@ -1,0 +1,422 @@
+# depslib dependency file v1.0
+1299076577 source:c:\users\soraia\dados\source\cgi-2011_1\testetemplate\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut_ext.h
+
+1304944990 source:c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut_ext.h
+
+1507738622 source:c:\users\15201850\desktop\nova pasta\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+
+1298986600 c:\users\15201850\desktop\nova pasta\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\15201850\desktop\nova pasta\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\15201850\desktop\nova pasta\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\15201850\desktop\nova pasta\include\gl\freeglut_ext.h
+
+1507855164 source:c:\users\joao_\desktop\trab2cg\trab2cg\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	"Coordinate.h"
+	"Matrix.h"
+	"TextFiles.h"
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<GL/gl.h>
+	"InfectionClass.h"
+	<math.h>
+	<thread>
+
+1298986600 c:\users\joao_\desktop\trab2cg\trab2cg\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\joao_\desktop\trab2cg\trab2cg\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\joao_\desktop\trab2cg\trab2cg\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\joao_\desktop\trab2cg\trab2cg\include\gl\freeglut_ext.h
+
+1507855040 source:c:\users\joao_\desktop\trab2cg\trab2cg\src\infectionclass.cpp
+	<iostream>
+	"Matrix.h"
+	"InfectionClass.h"
+	"Coordinate.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1507851224 source:c:\users\joao_\desktop\trab2cg\trab2cg\src\coordinate.cpp
+	<iostream>
+	"Coordinate.h"
+	<string>
+	<sstream>
+	<cmath>
+
+1507851443 c:\users\joao_\desktop\trab2cg\trab2cg\include\coordinate.h
+	<string>
+
+1507835863 source:c:\users\joao_\desktop\trab2cg\trab2cg\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1507828937 c:\users\joao_\desktop\trab2cg\trab2cg\include\matrix.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+
+1507851331 c:\users\joao_\desktop\trab2cg\trab2cg\include\infectionclass.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1507829966 c:\users\joao_\desktop\trab2cg\trab2cg\include\textfiles.h
+	<string>
+	"Matrix.h"
+
+1507837213 source:c:\users\joao_\desktop\trab2cg\trab2cg\src\textfiles.cpp
+	"TextFiles.h"
+	<string>
+	<time.h>
+	<cstdlib>
+
+1508202887 source:c:\users\joao_\desktop\trab2cg\trab2cg2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	"Coordinate.h"
+	"Matrix.h"
+	"TextFiles.h"
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<GL/gl.h>
+	"InfectionClass.h"
+	<math.h>
+	<thread>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg2\include\gl\glut.h
+	"freeglut.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg2\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg2\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg2\include\gl\freeglut_ext.h
+
+1507855043 c:\users\joao_\desktop\trab2cg\trab2cg2\include\coordinate.h
+	<string>
+
+1507832537 c:\users\joao_\desktop\trab2cg\trab2cg2\include\matrix.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+
+1507833566 c:\users\joao_\desktop\trab2cg\trab2cg2\include\textfiles.h
+	<string>
+	"Matrix.h"
+
+1508202887 c:\users\joao_\desktop\trab2cg\trab2cg2\include\infectionclass.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1507854824 source:c:\users\joao_\desktop\trab2cg\trab2cg2\src\coordinate.cpp
+	<iostream>
+	"Coordinate.h"
+	<string>
+	<sstream>
+	<cmath>
+
+1508203149 source:c:\users\joao_\desktop\trab2cg\trab2cg2\src\infectionclass.cpp
+	<iostream>
+	"Matrix.h"
+	"InfectionClass.h"
+	"Coordinate.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1507839463 source:c:\users\joao_\desktop\trab2cg\trab2cg2\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1508203270 source:c:\users\joao_\desktop\trab2cg\trab2cg2\src\textfiles.cpp
+	"TextFiles.h"
+	<string>
+	<time.h>
+	<cstdlib>
+
+1508890265 source:c:\users\joao_\desktop\trab2cg\trab2cg3\src\coordinate.cpp
+	<iostream>
+	"Coordinate.h"
+	<string>
+	<sstream>
+	<cmath>
+
+1508890247 c:\users\joao_\desktop\trab2cg\trab2cg3\include\coordinate.h
+	<string>
+
+1507839463 source:c:\users\joao_\desktop\trab2cg\trab2cg3\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1507832537 c:\users\joao_\desktop\trab2cg\trab2cg3\include\matrix.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg3\include\gl\glut.h
+	"freeglut.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg3\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg3\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg3\include\gl\freeglut_ext.h
+
+1508895157 source:c:\users\joao_\desktop\trab2cg\trab2cg3\src\textfiles.cpp
+	"TextFiles.h"
+	<string>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+
+1508893632 c:\users\joao_\desktop\trab2cg\trab2cg3\include\textfiles.h
+	<string>
+	"Matrix.h"
+	<vector>
+
+1509309922 source:c:\users\joao_\desktop\trab2cg\trab2cg3\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	"Coordinate.h"
+	"Matrix.h"
+	"TextFiles.h"
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<GL/gl.h>
+	"InfectionClass.h"
+	<math.h>
+	<thread>
+
+1508202887 c:\users\joao_\desktop\trab2cg\trab2cg3\include\infectionclass.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1508890443 source:c:\users\joao_\desktop\trab2cg\trab2cg3\src\infectionclass.cpp
+	<iostream>
+	"Matrix.h"
+	"InfectionClass.h"
+	"Coordinate.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1509309922 source:c:\users\joao_\desktop\trab2cg\trab2cg5\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	"Coordinate.h"
+	"Matrix.h"
+	"TextFiles.h"
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<GL/gl.h>
+	"InfectionClass.h"
+	<math.h>
+	<thread>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg5\include\gl\glut.h
+	"freeglut.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg5\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg5\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298990200 c:\users\joao_\desktop\trab2cg\trab2cg5\include\gl\freeglut_ext.h
+
+1510097268 c:\users\joao_\desktop\trab2cg\trab2cg5\include\coordinate.h
+	<string>
+
+1507832537 c:\users\joao_\desktop\trab2cg\trab2cg5\include\matrix.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+
+1508893632 c:\users\joao_\desktop\trab2cg\trab2cg5\include\textfiles.h
+	<string>
+	"Matrix.h"
+	<vector>
+
+1510097963 c:\users\joao_\desktop\trab2cg\trab2cg5\include\infectionclass.h
+	<string>
+	"Coordinate.h"
+	<unordered_map>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1510097692 source:c:\users\joao_\desktop\trab2cg\trab2cg5\src\coordinate.cpp
+	<iostream>
+	"Coordinate.h"
+	<string>
+	<sstream>
+	<cmath>
+
+1510098040 source:c:\users\joao_\desktop\trab2cg\trab2cg5\src\infectionclass.cpp
+	<iostream>
+	"Matrix.h"
+	"InfectionClass.h"
+	"Coordinate.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1507839463 source:c:\users\joao_\desktop\trab2cg\trab2cg5\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<GL/glut.h>
+	<cmath>
+
+1509310149 source:c:\users\joao_\desktop\trab2cg\trab2cg5\src\textfiles.cpp
+	"TextFiles.h"
+	<string>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+
